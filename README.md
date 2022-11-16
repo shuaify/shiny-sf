@@ -6,6 +6,6 @@ When I was building sf directly on top of shiny-verse, my ubuntu terminal keeps 
 
 This image was based on the rocker/shiny-verse:latest(2022.11) by the amazing team at Rocker: https://github.com/rocker-org/rocker. Without their excellent work, this image could never have been built.
 
-Docker Hub Link:https://hub.docker.com/repository/docker/wfmemphis/shiny-sf
+Docker Hub Link: https://hub.docker.com/repository/docker/wfmemphis/shiny-sf
 
 Feel free to pull the image. Will Try to update the image every few months. 
