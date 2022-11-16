@@ -1,4 +1,4 @@
-ROM rocker/shiny-verse:latest
+FROM rocker/shiny-verse:latest
 MAINTAINER "Shuai Yuan" 
 
 RUN apt-get update -qq\
