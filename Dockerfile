@@ -1,5 +1,5 @@
 FROM rocker/shiny-verse:latest
-MAINTAINER "Shuai Yuan" 
+MAINTAINER "shuaify" 
 
 RUN apt-get update -qq\
   && apt-get install -y --no-install-recommends \
