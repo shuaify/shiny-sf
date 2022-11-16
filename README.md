@@ -1,4 +1,5 @@
-Maintainer: shuaify, https://github.com/shuaify
+# Shiny-sf
+## Maintainer: shuaify, https://github.com/shuaify
 
 Building geospatial image could be very time-consuming due to the crazy number of GEOS dependencies. Although rocker/geospatial has a very well-built image encompassing all the packages in geocomputing, it could be hard to connect rocker/geospatial to shiny server port 3838 due to its built-in port 8787.
 
@@ -6,7 +7,9 @@ When I was building sf directly on top of shiny-verse, my ubuntu terminal keeps 
 
 This image was based on the rocker/shiny-verse:latest(2022.11) by the amazing team at Rocker: https://github.com/rocker-org/rocker-versioned2. Without their excellent work, this image could never have been built.
 
-Docker Hub Link: https://hub.docker.com/repository/docker/wfmemphis/shiny-sf
+## Docker Hub Link: 
+
+https://hub.docker.com/repository/docker/wfmemphis/shiny-sf
 
 ```r
 docker push wfmemphis/shiny-sf:latest
