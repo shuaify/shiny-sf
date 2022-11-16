@@ -11,7 +11,7 @@ This image was based on the rocker/shiny-verse:latest(2022.11) by the amazing te
 
 https://hub.docker.com/repository/docker/wfmemphis/shiny-sf
 
-## Linux CLI
+## Linux Command
 
 ```r
 docker pull wfmemphis/shiny-sf:latest
