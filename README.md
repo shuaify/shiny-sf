@@ -14,7 +14,7 @@ https://hub.docker.com/repository/docker/wfmemphis/shiny-sf
 ## Linux CLI
 
 ```r
-docker push wfmemphis/shiny-sf:latest
+docker pull wfmemphis/shiny-sf:latest
 ```
 
 Feel free to pull the image. Will Try to update the image every few months.
