@@ -8,5 +8,9 @@ This image was based on the rocker/shiny-verse:latest(2022.11) by the amazing te
 
 Docker Hub Link: https://hub.docker.com/repository/docker/wfmemphis/shiny-sf
 
+```r
+docker push wfmemphis/shiny-sf:latest
+```
+
 Feel free to pull the image. Will Try to update the image every few months.
 
