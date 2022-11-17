@@ -1,4 +1,4 @@
-# Shiny-sf
+# shiny-sf
 ## Maintainer: shuaify, https://github.com/shuaify
 
 Building geospatial Docker images could be very time-consuming due to the crazy number of GEOS dependencies. Although rocker/geospatial has a very well-built image encompassing all the packages in geocomputing, it could be hard to connect rocker/geospatial to shiny server port 3838 due to its built-in port 8787.
